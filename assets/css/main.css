@@ -86,6 +86,7 @@ header {
   overflow-x: auto !important;
   white-space: nowrap;
   flex-grow: 1;
+  justify-content: space-around;
 }
 
 .grid {
