@@ -1,7 +1,3 @@
 #+TITLE: Cortex Theme
 
-Theme for my braindump. Currently largely copied from [[https://github.com/azlen/roam-themes][notes.azlen.me]].
-
-** Search
-
-In order for search to work, you must have a `/content/search/_index.md` file, so that `/search` is a valid url.
+Theme for my braindump. From [[https://github.com/jethrokuan/cortex][jethrokuan/cortex]].
